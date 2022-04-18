@@ -1,4 +1,4 @@
-# Glider
+# Parts of a Glider
 ## Content data:
 - [What are the names of all the sailplane parts? - Soaring Society of America](https://www.ssa.org/faq-items/what-are-the-names-of-all-the-sailplane-parts/)
 - [Parts of a Glider - Yoark Soaring Association](https://yorksoaring.com/wp-content/uploads/coursework/GPGSDEC11/parts_of_a_glider.html#)
